@@ -8,7 +8,7 @@ going into you Raspberry Pi 2 terminal, and running: <p>
  <code>sudo apt-get install git; </code><p>
  <code>git clone https://github.com/audstanley/Node-MongoDb-Pi; </code><p>
  <code>cd Node-MongoDb-Pi; </code><p>
- <code>sudo bash Install-Node-MongoDb-Pi-sh; </code><p> 
+ <code>sudo bash Install-Node-MongoDb-Pi.sh; </code><p> 
 After the install you can control mongodb anywhere on the system with:<p>
 <code>sudo service mongodb start|stop|restart</code>
 <p>
